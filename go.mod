@@ -24,4 +24,5 @@ require (
 	google.golang.org/grpc v1.39.0
 	google.golang.org/protobuf v1.27.1
 	h12.io/socks v1.0.2
+	inet.af/netaddr v0.0.0-20210721214506-ce7a8ad02cc1
 )
